@@ -6,5 +6,6 @@ Read me file uses markdowm syntax to edit any text, formulas or codes.
 - Python
 - Github
 ## Contact info 
-1.Phone 
-2.Email
+  1.Phone 
+  2.Email
+  3.Address
